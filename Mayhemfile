@@ -1,0 +1,5 @@
+project: jacob-clemente/gifsicle
+target: gifsicle
+
+cmds:
+  - cmd: /gifsicle -e @@
